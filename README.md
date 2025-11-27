@@ -49,7 +49,8 @@
 
 ### **Renewable Energy Impact Analysis (course project)**  
 Built and analyzed a multi-country panel dataset (2000–2020) to study how changes in renewable energy share affect **Total Factor Productivity**.  
-**Project link:** [(https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)]
+Project link: [https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
+
 
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels), SQL, Excel, R.
@@ -68,7 +69,7 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 ## Soft Skills
 
 - Strong presentation and communication skills; able to translate complex analysis into simple, understandable insights.  
-  *(Sample presentation link: (https://github.com/Aria-Mousavi/presentation-sample-econometrics-1))*
+  Sample presentation link: [https://github.com/Aria-Mousavi/presentation-sample-econometrics-1](https://github.com/Aria-Mousavi/presentation-sample-econometrics-1)
 
 ---
 
