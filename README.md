@@ -1,8 +1,8 @@
 # Aria Mousavi
 
 **Email:** Mousavi_Aria@student.ceu.edu  
-**GitHub:** [github.com/Aria-Mousavi](https://github.com/Aria-Mousavi)  
-**LinkedIn:** [linkedin.com/in/aria-mousavi](https://www.linkedin.com/in/aria-mousavi/)  
+[**GitHub:**](https://github.com/Aria-Mousavi)  
+[**LinkedIn:**](https://www.linkedin.com/in/aria-mousavi/)  
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### **Renewable Energy Impact Analysis (course project)**  
 Built and analyzed a multi-country panel dataset (2000–2020) to study how changes in renewable energy share affect **Total Factor Productivity**.  
-[Project link:](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
+[Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels), SQL, Excel, R.
