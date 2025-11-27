@@ -1,9 +1,8 @@
 # Aria Mousavi
 
 **Email:** Mousavi_Aria@student.ceu.edu  
-**Phone:** +43 677 62080484  
-**GitHub:** [https://github.com/Aria-Mousavi]  
-**LinkedIn:** [https://www.linkedin.com/in/aria-mousavi/]
+**GitHub:** [github.com/Aria-Mousavi](https://github.com/Aria-Mousavi)  
+**LinkedIn:** [linkedin.com/in/aria-mousavi](https://www.linkedin.com/in/aria-mousavi/)  
 
 ---
 
