@@ -1,69 +1,96 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
+# Aria Mousavi
 
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+**Email:** Mousavi_Aria@student.ceu.edu  
+[**GitHub**](https://github.com/Aria-Mousavi)  
+[**LinkedIn**](https://www.linkedin.com/in/aria-mousavi/)  
 
-## Preview
+---
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+## Education
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+### **MA in Economics, Data, and Policy (Data Science Track)**  
+**Central European University (CEU), Vienna, Austria**  
+*2024–2026*  
+- CEU Master’s Excellence Scholarship (full tuition waiver €12,000/year + €10,000/year stipend).  
+- Expected graduation: **June 2026**.  
+- **Relevant Courses:** Causal Analysis, Data Science (Python & SQL), Data Engineering, Machine Learning, Statistics.
 
-## Status
+### **BA in Economics**  
+**Ferdowsi University of Mashhad**  
+*2019–2024*  
+- Final grade: **19.44/20** (equivalent to 1.1).  
+- Ranked **2nd among 91** students.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
+### **Exchange Program – International Management (BA)**  
+**FH JOANNEUM, Graz, Austria**  
+*2022–2023*  
+- Erasmus+ Grant (€9,000).
 
-## Download and Installation
+---
 
-To begin using this template, choose one of the following options to get started:
+## Experience
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+### **Research Intern**  
+**Vienna Institute for International Economic Studies (wiiw) – Vienna, Austria**  
+*Jul–Aug 2025*  
+- Built reproducible R scripts to clean, merge, and update macroeconomic datasets.  
+- Automated data preparation workflows using **dplyr**, **tidyr**, and **readxl**.  
+- Supported literature review on technological proximity and trade for a wiiw research project.
 
-## Usage
+### **Research Intern**  
+**Vienna Institute for International Economic Studies (wiiw) – Vienna, Austria**  
+*Feb–Oct 2023*  
+- Co-authored policy brief: *“Patents as Green Technology Barometers: Trends and Disparities.”*  
+- Performed data analysis and literature reviews on **energy economics**, **climate policy**, and **renewable energy**, using **Excel** and **STATA**.
 
-### Basic Usage
+---
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## Projects
 
-### Advanced Usage
+### **Renewable Energy Impact Analysis**  
+Built and analyzed a multi-country panel dataset (2000–2020) to study how changes in renewable energy share affect **Total Factor Productivity**.  
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+- **Methods:** Fixed effects, first differences, random effects, event study.  
+- **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels)
 
-#### npm Scripts
+[Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-You must have npm installed in order to use this build environment.
+### E-Commerce Analytics Dashboard (Power BI)
 
-## Bugs and Issues
+- Built an interactive Power BI dashboard analyzing customers, conversion funnels, revenue trends, and marketing performance  
+- Implemented a relational data model and business KPIs using DAX  
+[Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
 
-## About
+### Customer Review Sentiment Analysis using AWS
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+- Built an end-to-end pipeline to analyze German-language customer reviews using AWS text services  
+- Applied AWS Translate and AWS Comprehend to extract sentiment and recurring themes from customer reviews  
 
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
+**Tools:** Python, AWS S3, AWS Translate, AWS Comprehend  
+[Project link](https://github.com/Aria-Mousavi/refurbed-review-analysis)
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+---
 
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
+## Technical Skills
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+- **Programming:** Python, SQL, R, Excel  
+- **Data Engineering & Cloud:**  Data cleaning and automation, ETL pipelines, Pandas, DuckDB, Git (version control), serverless architectures, AWS (S3, Lambda, Athena, EventBridge), object storage, programmatic cloud access (boto3)
+- **Text Analytics:** Sentiment analysis, key phrase extraction, multilingual text processing  
+- **Visualization:** Power BI, Matplotlib, ggplot2
+- **Methods:** Econometrics, Regression Analysis, Causal Inference, Statistics
 
-## Copyright and License
+---
 
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+## Soft Skills
+
+- Strong presentation and communication skills; able to translate complex analysis into simple, understandable insights.  
+  [Sample presentation link](https://github.com/Aria-Mousavi/presentation-sample-econometrics-1)
+---
+
+## Languages
+
+- **English:** C1  
+- **German:** A1  
+- **Persian:** Native
